@@ -1,0 +1,26 @@
+{
+  "name": "employment-searcher",
+  "version": "1.0.0",
+  "description": "This is a project to search for jobs using web components and pure css.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ArzateCompany/employment-searcher.git"
+  },
+  "keywords": [
+    "javascript",
+    "web-components",
+    "css",
+    "node-js",
+    "frontend"
+  ],
+  "author": "Osvaldo Arzate Santiago <osvarz.new@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArzateCompany/employment-searcher/issues"
+  },
+  "homepage": "https://github.com/ArzateCompany/employment-searcher#readme"
+}
